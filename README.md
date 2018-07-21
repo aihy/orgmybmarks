@@ -8,7 +8,7 @@ Let this tool delete all folders and duplicated bookmarks!
 
 1. open ```chrome://bookmarks/```
 2. output all the bookmarks to a html file
-3. press ```ctrl + a ```to select all bookmarks, click delete
+3. press ```ctrl + a``` to select all bookmarks, click delete
 4. ```python3 orgmybmarks.py bookmarks.html```
 5. input out.html to chrome
 
